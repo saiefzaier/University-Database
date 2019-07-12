@@ -1,3 +1,0 @@
-begin
-UNIVERSITY.HONOR_STUDENTS;
-end;
